@@ -153,7 +153,7 @@
   },
   "devDependencies": {
     "@ai-sdk/provider": "^3.0.6",
-    "@ai-sdk/provider-utils": "^4.0.11",
+    "@ai-sdk/provider-utils": "^5.0.53",
     "@sentry/mcp-server-mocks": "workspace:*",
     "@sentry/mcp-server-tsconfig": "workspace:*",
     "msw": "catalog:",
